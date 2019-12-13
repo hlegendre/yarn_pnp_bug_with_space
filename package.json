@@ -1,0 +1,12 @@
+{
+  "name": "yarn_pnp_bug_with_space",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "installConfig": {
+    "pnp": true
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
